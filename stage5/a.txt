@@ -1,0 +1,6 @@
+input the int value i:
+input the int value j:
+i + j = 8
+input the int value i:
+input the int value j:
+i + j = 3
