@@ -1,2 +1,2 @@
 # doc-c
-C program
+Linux C program
